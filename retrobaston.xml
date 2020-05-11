@@ -25,7 +25,6 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="system">
 
 		<image name="background" extra="true">
-			<tile>false</tile>
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -39,7 +38,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
-			<size>1 5</size>
+			<size>1 1</size>
 			<pos>0.5 0.5</pos>
 			<origin>0 0</origin>
 			<path>./art/RB-gradient-middle.png</path>
@@ -64,11 +63,10 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="basic">
 
 		<image name="background" extra="true">
-			<tile>true</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/RB-main-bg.jpg</path>
+			<path>./art/RB-main-bg.png</path>
 		</image>
 
 		<textlist name="gamelist">
@@ -89,6 +87,13 @@ Element color: Search and replace colors. Do not use spaces!
 	</view>
 
 	<view name="detailed">
+
+		<image name="background" extra="true">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./art/RB-main-bg.png</path>
+		</image>
 
 		<image name="md_image">
 			<pos>0.763 0.400</pos>
@@ -125,11 +130,10 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="detailed, video">
 
 		<image name="background">
-			<tile>true</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/RB-main-bg.jpg</path>
+			<path>./art/RB-main-bg.png</path>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
@@ -240,7 +244,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<image name="top" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<size>1 3</size>
+			<size>1 1</size>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>93d4ef</color>
 		</image>
