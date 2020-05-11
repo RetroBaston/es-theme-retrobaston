@@ -1,6 +1,6 @@
 <theme>
 	<formatVersion>4</formatVersion>
-    <include>./carbon.xml</include>
+    <include>./retrobaston.xml</include>
 
 	<view name="system">
 		<image name="ControllerOverlay" extra="true">
@@ -16,7 +16,7 @@
 		</image>
 
 		<text name="logoText">
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
+			<fontPath>./art/Schluber.ttf</fontPath>
 			<color>8b0000</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
@@ -27,7 +27,7 @@
 			<pos>0.01 0.02</pos>
 			<size>0.460 0.126</size>
 			<fontSize>0.12</fontSize>
-			<fontPath>./art/Cabin-Bold.ttf</fontPath>
+			<fontPath>./art/Schluber.ttf</fontPath>
 			<color>8b0000</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
