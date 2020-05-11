@@ -24,10 +24,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 	<view name="system">
 
-		<image name="background_color">
-			<size>1 1</size>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
+		<image name="background" extra="true">
 			<path>./art/RB-main-bg.png</path>
 		</image>
 
