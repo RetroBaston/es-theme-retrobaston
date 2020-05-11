@@ -25,7 +25,10 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/RB-main-bg.png</path>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
 		<helpsystem name="help">
@@ -226,7 +229,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>969696</color>
 		</image>
 
-		</view>
+	</view>
 
 	<view name="basic, detailed, video">
 
@@ -247,6 +250,5 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 	</view>
-
 
 </theme>
