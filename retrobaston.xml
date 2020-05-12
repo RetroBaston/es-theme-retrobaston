@@ -36,7 +36,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>5290c0</iconColor>
 		</helpsystem>
 
-<!-- 		<image name="CenterFade" extra="true">
+		<image name="CenterFade" extra="true">
 			<tile>false</tile>
 			<size>1 1</size>
 			<pos>0.5 0.5</pos>
@@ -45,18 +45,18 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>93d4ef</color>
 		</image> -->
 
-<!-- 		<image name="BottomBar" extra="true">
+		<image name="BottomBar" extra="true">
 			<tile>false</tile>
 			<size>1 1</size>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>93d4ef</color>
-		</image> -->
+		</image>
 
-<!-- 		<image name="ControllerOverlay" extra="true">
+		<image name="ControllerOverlay" extra="true">
 			<color>93d4ef</color>
-		</image> -->
+		</image>
 
 	</view>
 
