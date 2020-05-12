@@ -43,7 +43,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 0</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>93d4ef</color>
-		</image> -->
+		</image>
 
 		<image name="BottomBar" extra="true">
 			<tile>false</tile>
@@ -54,9 +54,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>93d4ef</color>
 		</image>
 
-		<image name="ControllerOverlay" extra="true">
+<!-- 		<image name="ControllerOverlay" extra="true">
 			<color>93d4ef</color>
-		</image>
+		</image> -->
 
 	</view>
 
