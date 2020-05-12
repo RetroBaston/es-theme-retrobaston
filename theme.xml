@@ -11,9 +11,9 @@
 			<path>./art/controller/${system.theme}.svg</path>
 		</image>
 
-		<image name="logo">
+<!-- 		<image name="logo">
 			<path>./art/logo/${system.theme}.svg</path>
-		</image>
+		</image> -->
 
 		<text name="logoText">
 			<fontPath>./art/Schluber.ttf</fontPath>
