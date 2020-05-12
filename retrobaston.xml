@@ -36,14 +36,14 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>5290c0</iconColor>
 		</helpsystem>
 
-		<image name="CenterFade" extra="true">
+<!-- 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
 			<size>1 1</size>
 			<pos>0.5 0.5</pos>
 			<origin>0 0</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>93d4ef</color>
-		</image>
+		</image> -->
 
 		<image name="BottomBar" extra="true">
 			<tile>false</tile>
