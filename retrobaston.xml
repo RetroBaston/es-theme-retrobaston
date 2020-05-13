@@ -29,7 +29,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<feature supported="carousel">
 				<view name="system">
 					<carousel name="systemcarousel">
-						<color>000000cc</color>
+						<color>00000000</color>
 						<logoSize>0.22 0.115</logoSize>
 						<logoScale>1.7</logoScale>
 					</carousel>
@@ -40,8 +40,8 @@ Element color: Search and replace colors. Do not use spaces!
 					</text>
 
 					<text name="systemInfo">
-						<backgroundColor>11111199</backgroundColor>
-						<color>93d4ef</color>
+						<backgroundColor>000000aa</backgroundColor>
+						<color>5290c0</color>
 						<fontPath>./art/Schluber.ttf</fontPath>
 						<fontSize>0.025</fontSize>
 					</text>
@@ -72,7 +72,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>1 0.2</size>
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
-<!-- 			<path>./art/RB-gradient-middle.png</path> -->
+			<path>./art/RB-gradient-middle.png</path>
 <!-- 			<color>000000</color> -->
 		</image>
 
