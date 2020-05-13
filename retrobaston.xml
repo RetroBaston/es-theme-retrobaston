@@ -148,7 +148,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="md_image">
 			<pos>0.645 0.168</pos>
-			<maxSize>0.330 0.300</maxSize>
+			<maxSize>0.330 0.419</maxSize>
 			<origin>0.5 0</origin>
 		</image>
 
