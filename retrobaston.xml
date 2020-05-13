@@ -19,6 +19,7 @@ Element color: Search and replace colors. Do not use spaces!
 	Blue	52 90 c0
 	DarkB	3b 68 8a
 	Black	00 00 00
+	BGcolor	48 a5 bd
 -->
 <theme>
     <formatVersion>3</formatVersion>
@@ -79,9 +80,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<tile>false</tile>
 			<size>1 0.04</size>
 			<pos>0 1</pos>
-			<origin>0 0</origin>
+			<origin>0 1</origin>
+			<backgroundColor>48a5bd</backgroundColor>
 			<path>./art/RB-gradient-middle.png</path>
-			<color>000000</color>
 		</image>
 
 <!-- 		<image name="ControllerOverlay" extra="true">
@@ -103,7 +104,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<selectorColor>000000</selectorColor>
 			<selectedColor>93d4ef</selectedColor>
 			<primaryColor>000000</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
+			<secondaryColor>5290c0</secondaryColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<pos>0.025 0.18</pos>
@@ -119,7 +120,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.1 0.97</pos>
+			<pos>0.2 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
