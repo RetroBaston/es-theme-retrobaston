@@ -3,13 +3,13 @@
     <include>./retrobaston.xml</include>
 
 	<view name="system">
-		<image name="ControllerOverlay" extra="true">
+<!-- 		<image name="ControllerOverlay" extra="true">
 			<tile>false</tile>
 			<pos>0.5 0.2</pos>
 			<origin>0.5 0.5</origin>
 			<size>0.3 0</size>
 			<path>./art/controller/${system.theme}.svg</path>
-		</image>
+		</image> -->
 
 <!-- 		<image name="logo">
 			<path>./art/logo/${system.theme}.svg</path>
