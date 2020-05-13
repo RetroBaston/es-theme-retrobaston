@@ -147,10 +147,18 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<image name="md_image">
+			<pos>0.810 0.168</pos>
+			<maxSize>0.330 0.449</maxSize>
+			<origin>1 0</origin>
+		</image>
+
+<!--
+			<image name="md_image">
 			<pos>0.480 0.168</pos>
 			<maxSize>0.330 0.449</maxSize>
 			<origin>0 0</origin>
 		</image>
+-->
 
 		<helpsystem name="help">
 			<textColor>5290c0</textColor>
@@ -287,93 +295,6 @@ Element color: Search and replace colors. Do not use spaces!
 				<datetime name="md_lastplayed">
 					<pos>0.83 0.586</pos>
 				</datetime>
-<!--
-	<text name="md_lbl_players">
-					<pos>0.82 0.218</pos>
-				</text>
-				<text name="md_players">
-					<pos>0.83 0.238</pos>
-				</text>
-
-				<text name="md_lbl_genre">
-					<pos>0.82 0.268</pos>
-				</text>
-				<text name="md_genre">
-					<pos>0.83 0.298</pos>
-				</text>
-
-				<text name="md_lbl_developer">
-					<pos>0.82 0.318</pos>
-				</text>
-				<text name="md_developer">
-					<pos>0.83 0.338</pos>
-				</text>
-
-				<text name="md_lbl_publisher">
-					<pos>0.82 0.368</pos>
-				</text>
-				<text name="md_publisher">
-					<pos>0.83 0.388</pos>
-				</text>
-
-				<text name="md_lbl_releasedate">
-					<pos>0.82 0.418</pos>
-				</text>
-				<datetime name="md_releasedate">
-					<pos>0.83 0.438</pos>
-				</datetime>
-
-				<text name="md_lbl_playcount">
-					<pos>0.82 0.468</pos>
-				</text>
-				<text name="md_playcount">
-					<pos>0.83 0.488</pos>
-				</text>
-
-				<text name="md_lbl_lastplayed">
-					<pos>0.82 0.518</pos>
-				</text>
-				<datetime name="md_lastplayed">
-					<pos>0.83 0.538</pos>
-				</datetime>
--->
-
-<!-- 		<datetime name="md_lastplayed, md_releasedate">
-			<color>000000</color>
-			<forceUppercase>0</forceUppercase>
-			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.02</fontSize>
-			<size>0.23 0.02</size>
-		</datetime>
-
-		<datetime name="md_lastplayed">
-			<pos>1 1</pos>
-		</datetime>
-
-		<datetime name="md_releasedate">
-			<pos>0.53 0.63</pos>
-			<size>0 0.033</size>
-		</datetime>
-
-		<text name="md_genre">
-			<pos>0.53 0.66</pos>
-			<size>0 0.033</size>
-		</text>
-
-		<text name="md_developer">
-			<pos>0.53 0.69</pos>
-			<size>0 0.033</size>
-		</text>
-
-		<text name="md_lbl_players, md_players">
-			<pos>0.91 0.63</pos>
-			<size>0.09 0</size>
-		</text>
-
-		<text name="md_players">
-			<pos>0.98 0.63</pos>
-			<size>0.02 0</size>
-		</text> -->
 
 		<text name="md_description">
 			<color>000000</color>
