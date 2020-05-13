@@ -223,7 +223,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<datetime name="md_releasedate, md_lastplayed">
 				<color>000000</color>
 				<forceUppercase>0</forceUppercase>
-				<fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+				<fontPath>./art/Schluber.ttf</fontPath>
 				<fontSize>0.024</fontSize>
 				<size>0.23 0.02</size>
 			</datetime>
@@ -234,8 +234,8 @@ Element color: Search and replace colors. Do not use spaces!
 				<rating name="md_rating">
 					<pos>0.75 0.07</pos>
 					<size>0.23 0.03</size>
-					<filledPath>./_inc/images/star_full.png</filledPath>
-					<unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
+					<filledPath>./art/star_filled_spacing.svg</filledPath>
+					<unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
 				</rating>
 
 				<text name="md_lbl_players">
@@ -286,6 +286,7 @@ Element color: Search and replace colors. Do not use spaces!
 				<datetime name="md_lastplayed">
 					<pos>0.75 0.50</pos>
 				</datetime>
+-->
 
 <!-- 		<datetime name="md_lastplayed, md_releasedate">
 			<color>000000</color>
