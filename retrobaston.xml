@@ -22,6 +22,28 @@ Element color: Search and replace colors. Do not use spaces!
 -->
 <theme>
     <formatVersion>3</formatVersion>
+	
+		<feature supported="carousel">
+				<view name="system">
+					<carousel name="systemcarousel">
+						<color>000000cc</color>
+						<logoSize>0.22 0.115</logoSize>
+						<logoScale>1.7</logoScale>
+					</carousel>
+					
+					<text name="logoText">
+						<forceUppercase>true</forceUppercase>
+						<color>ffffff</color>
+					</text>
+
+					<text name="systemInfo">
+						<backgroundColor>11111199</backgroundColor>
+						<color>FFFFFF</color>
+						<fontPath>./_inc/fonts/RobotoCondensed-Regular.ttf</fontPath>
+						<fontSize>0.05</fontSize>
+					</text>
+				</view>
+			</feature>
 
 	<view name="system">
 
@@ -37,7 +59,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.5 0.97</pos>
+			<pos>0.4 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
