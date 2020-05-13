@@ -23,7 +23,9 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-<!-- 		<feature supported="carousel">
+<!-- FROM https://github.com/rxbrad/es-theme-gbz35-dark/blob/master/theme.xml  -->
+
+			<feature supported="carousel">
 				<view name="system">
 					<carousel name="systemcarousel">
 						<color>000000cc</color>
@@ -35,8 +37,16 @@ Element color: Search and replace colors. Do not use spaces!
 						<forceUppercase>true</forceUppercase>
 						<color>93d4ef</color>
 					</text>
+
+					<text name="systemInfo">
+						<backgroundColor>11111199</backgroundColor>
+						<color>93d4ef</color>
+						<fontPath>./_inc/fonts/Schluber.ttf</fontPath>
+						<fontSize>0.025</fontSize>
+					</text>
+
 				</view>
-			</feature> -->
+			</feature>
 
 	<view name="system">
 
@@ -47,19 +57,12 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
-<!-- 		<text name="systemInfo">
-			<backgroundColor>11111199</backgroundColor>
-			<color>93d4ef</color>
-			<fontPath>./_inc/fonts/Schluber.ttf</fontPath>
-			<fontSize>0.025</fontSize>
-		</text> -->
-
 		<helpsystem name="help">
 			<textColor>93d4ef</textColor>
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.4 0.97</pos>
+			<pos>0.37 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
@@ -76,7 +79,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<tile>false</tile>
 			<size>1 0.04</size>
 			<pos>0 1</pos>
-			<origin>0 1</origin>
+			<origin>0 0</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>000000</color>
 		</image>
@@ -110,6 +113,24 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>1</forceUppercase>
 			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
+
+		<helpsystem name="help">
+			<textColor>93d4ef</textColor>
+			<iconColor>93d4ef</iconColor>
+			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<pos>0.1 0.97</pos>
+<!-- 			<alignment>center</alignment> -->
+		</helpsystem>
+
+		<image name="BottomBar" extra="true">
+			<tile>false</tile>
+			<size>1 0.04</size>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<path>./art/RB-gradient-middle.png</path>
+			<color>000000</color>
+		</image>
 
 	</view>
 
