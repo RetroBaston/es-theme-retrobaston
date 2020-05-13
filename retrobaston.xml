@@ -59,11 +59,11 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<helpsystem name="help">
-			<textColor>93d4ef</textColor>
-			<iconColor>93d4ef</iconColor>
+			<textColor>5290c0</textColor>
+			<iconColor>5290c0</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.37 0.97</pos>
+			<pos>0.38 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
@@ -117,11 +117,11 @@ Element color: Search and replace colors. Do not use spaces!
 		</textlist>
 
 		<helpsystem name="help">
-			<textColor>93d4ef</textColor>
-			<iconColor>93d4ef</iconColor>
+			<textColor>5290c0</textColor>
+			<iconColor>5290c0</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.3 0.97</pos>
+			<pos>0.25 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
@@ -149,6 +149,24 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.763 0.400</pos>
 			<maxSize>0.453 0.436</maxSize>
 			<origin>0.5 0.5</origin>
+		</image>
+
+		<helpsystem name="help">
+			<textColor>5290c0</textColor>
+			<iconColor>5290c0</iconColor>
+			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<pos>0.25 0.97</pos>
+<!-- 			<alignment>center</alignment> -->
+		</helpsystem>
+
+		<image name="BottomBar" extra="true">
+			<tile>false</tile>
+			<size>1 0.04</size>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<path>./art/RB-gradient-middle.png</path>
+			<color>000000</color>
 		</image>
 
 	</view>
@@ -187,10 +205,10 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
-			<color>969696</color>
+			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.023</fontSize>
+			<fontSize>0.015</fontSize>
 		</text>
 
 		<text name="md_lbl_rating, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate, md_lbl_genre, md_lbl_developer">
@@ -198,10 +216,10 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<datetime name="md_lastplayed, md_releasedate">
-			<color>969696</color>
+			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.023</fontSize>
+			<fontSize>0.015</fontSize>
 		</datetime>
 
 		<datetime name="md_lastplayed">
@@ -234,19 +252,19 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<text name="md_description">
-			<color>969696</color>
+			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.023</fontSize>
+			<fontSize>0.015</fontSize>
 			<size>0.467 0.16</size>
 			<pos>0.530 0.746</pos>
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>8b0000</selectedColor>
-			<primaryColor>969696</primaryColor>
-			<secondaryColor>7a6161</secondaryColor>
+			<selectorColor>000000</selectorColor>
+			<selectedColor>93d4ef</selectedColor>
+			<primaryColor>000000</primaryColor>
+			<secondaryColor>5290c0</secondaryColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.021 0.168</pos>
@@ -262,21 +280,21 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/hidden.svg</path>
 			<maxSize>0.032 0.032</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>969696</color>
+			<color>93d4ef</color>
 		</image>
 		<image name="md_kidgame">
 			<pos>0.883 0.700</pos>
 			<path>./art/kid.svg</path>
 			<maxSize>0.032 0.032</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>969696</color>
+			<color>93d4ef</color>
 		</image>
 		<image name="md_favorite">
 			<pos>0.940 0.700</pos>
 			<path>./art/favorite.svg</path>
 			<maxSize>0.032 0.032</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>969696</color>
+			<color>93d4ef</color>
 		</image>
 
 	</view>
