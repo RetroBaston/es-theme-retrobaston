@@ -17,8 +17,8 @@
 
 		<text name="logoText">
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<color>8b0000</color>
-			<forceUppercase>true</forceUppercase>
+<!-- 			<color>8b0000</color>
+ -->			<forceUppercase>true</forceUppercase>
 		</text>
 	</view>
 
@@ -43,7 +43,7 @@
 			<pos>0.874 0.074</pos>
 			<maxSize>0.460 0.126</maxSize>
 			<origin>0.5 0.5</origin>
-			<!-- <color>bbbbbb</color> -->
+			<color>bbbbbb</color>
 		</image>
 	</view>
 </theme>
