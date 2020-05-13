@@ -148,7 +148,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="md_image">
 			<pos>0.645 0.168</pos>
-			<maxSize>0.330 0.419</maxSize>
+			<maxSize>0.330 0.422</maxSize>
 			<origin>0.5 0</origin>
 		</image>
 
@@ -320,7 +320,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>1</forceUppercase>
 			<pos>0.025 0.168</pos>
 			<size>0.430 0.754</size>
-			<alignment>left</alignment>
+<!-- 			<alignment>left</alignment> -->
 			<horizontalMargin>0.00</horizontalMargin>
 			<fontSize>0.03</fontSize>
 			<scrollSound>./art/scroll.wav</scrollSound>
