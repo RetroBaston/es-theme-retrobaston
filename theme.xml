@@ -39,6 +39,7 @@
 			<pos>0.02 0.02</pos>
 			<maxSize>0.400 0.120</maxSize>
 			<origin>0 0</origin>
+			<alignment>left</alignment>
 		</image>
 
 <!-- console logo before
