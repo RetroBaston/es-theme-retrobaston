@@ -36,12 +36,13 @@ Element color: Search and replace colors. Do not use spaces!
 			<textColor>93d4ef</textColor>
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontSize>14px</fontSize>
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
-			<size>1 0.3</size>
-			<pos>0.5 0.6</pos>
+			<size>1 0.28</size>
+			<pos>0.5 0.55</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<!-- <color>000000</color> -->
@@ -49,7 +50,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="BottomBar" extra="true">
 			<tile>false</tile>
-			<size>1 0.1</size>
+			<size>1 0.05</size>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/RB-gradient-middle.png</path>
