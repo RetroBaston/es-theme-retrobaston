@@ -286,7 +286,7 @@ Element color: Search and replace colors. Do not use spaces!
 				<datetime name="md_lastplayed">
 					<pos>0.75 0.50</pos>
 				</datetime>
--->
+
 
 <!-- 		<datetime name="md_lastplayed, md_releasedate">
 			<color>000000</color>
