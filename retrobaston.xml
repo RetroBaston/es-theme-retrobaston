@@ -82,9 +82,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 <!-- 			<backgroundColor>48a5bd</backgroundColor>
- -->			<path>./art/RB-gradient-middle.png</path>
-			<color>00000000</color>
-		</image>
+ -->		<path>./art/RB-gradient-middle.png</path>
+<!-- 			<color>00000000</color>
+ -->	</image>
 
 <!-- 		<image name="ControllerOverlay" extra="true">
 			<color>93d4ef</color>
@@ -242,49 +242,49 @@ Element color: Search and replace colors. Do not use spaces!
 					<pos>0.82 0.218</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.83 0.248</pos>
+					<pos>0.83 0.238</pos>
 				</text>
 
 				<text name="md_lbl_genre">
 					<pos>0.82 0.268</pos>
 				</text>
 				<text name="md_genre">
-					<pos>0.83 0.308</pos>
+					<pos>0.83 0.298</pos>
 				</text>
 
 				<text name="md_lbl_developer">
 					<pos>0.82 0.318</pos>
 				</text>
 				<text name="md_developer">
-					<pos>0.83 0.348</pos>
+					<pos>0.83 0.328</pos>
 				</text>
 
 				<text name="md_lbl_publisher">
 					<pos>0.82 0.368</pos>
 				</text>
 				<text name="md_publisher">
-					<pos>0.83 0.398</pos>
+					<pos>0.83 0.388</pos>
 				</text>
 
 				<text name="md_lbl_releasedate">
 					<pos>0.82 0.418</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.83 0.448</pos>
+					<pos>0.83 0.438</pos>
 				</datetime>
 
 				<text name="md_lbl_playcount">
 					<pos>0.82 0.468</pos>
 				</text>
 				<text name="md_playcount">
-					<pos>0.83 0.498</pos>
+					<pos>0.83 0.488</pos>
 				</text>
 
 				<text name="md_lbl_lastplayed">
 					<pos>0.82 0.518</pos>
 				</text>
 				<datetime name="md_lastplayed">
-					<pos>0.83 0.548</pos>
+					<pos>0.83 0.538</pos>
 				</datetime>
 
 
