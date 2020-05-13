@@ -81,8 +81,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>1 0.04</size>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
-<!-- 			<backgroundColor>48a5bd</backgroundColor> -->
+<!-- 		<backgroundColor>48a5bd</backgroundColor> -->
 			<path>./art/RB-gradient-middle.png</path>
+			<color>000000</color>
 		</image>
 
 <!-- 		<image name="ControllerOverlay" extra="true">
@@ -120,7 +121,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.2 0.97</pos>
+			<pos>0.3 0.97</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
