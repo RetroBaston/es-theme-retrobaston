@@ -81,7 +81,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>1 0.04</size>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
-			<backgroundColor>48a5bd</backgroundColor>
+<!-- 			<backgroundColor>48a5bd</backgroundColor> -->
 			<path>./art/RB-gradient-middle.png</path>
 		</image>
 
