@@ -24,7 +24,7 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-<!-- FROM https://github.com/rxbrad/es-theme-gbz35-dark/blob/master/theme.xml 
+<!-- FROM https://github.com/rxbrad/es-theme-gbz35-dark/blob/master/theme.xml -->
 
 			<feature supported="carousel">
 				<view name="system">
@@ -42,12 +42,12 @@ Element color: Search and replace colors. Do not use spaces!
 					<text name="systemInfo">
 						<backgroundColor>11111199</backgroundColor>
 						<color>93d4ef</color>
-						<fontPath>./_inc/fonts/Schluber.ttf</fontPath>
+						<fontPath>./art/Schluber.ttf</fontPath>
 						<fontSize>0.025</fontSize>
 					</text>
 
 				</view>
-			</feature>  -->
+			</feature> 
 
 	<view name="system">
 
