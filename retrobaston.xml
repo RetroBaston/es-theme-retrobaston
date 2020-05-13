@@ -233,7 +233,7 @@ Element color: Search and replace colors. Do not use spaces!
 					<pos>0.82 0.168</pos>
 				</text>
 				<rating name="md_rating">
-					<pos>0.83 0.193</pos>
+					<pos>0.83 0.191</pos>
 					<size>0.23 0.02</size>
 					<filledPath>./art/star_filled_spacing.svg</filledPath>
 					<unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
@@ -392,7 +392,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.025 0.168</pos>
-			<size>0.445 0.754</size>
+			<size>0.440 0.754</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.00</horizontalMargin>
 			<fontSize>0.03</fontSize>
