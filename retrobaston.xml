@@ -18,6 +18,7 @@ Element color: Search and replace colors. Do not use spaces!
 	LightB	93 d4 ef
 	Blue	52 90 c0
 	DarkB	3b 68 8a
+	Black	00 00 00
 -->
 <theme>
     <formatVersion>3</formatVersion>
@@ -32,26 +33,27 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<helpsystem name="help">
-			<textColor>5290c0</textColor>
-			<iconColor>5290c0</iconColor>
+			<textColor>93d4ef</textColor>
+			<iconColor>93d4ef</iconColor>
+			<fontPath>./art/Schluber.ttf</fontPath>
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
-			<size>1 0.5</size>
-			<pos>0.5 0.5</pos>
+			<size>1 0.3</size>
+			<pos>0.5 0.6</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/RB-gradient-middle.png</path>
-			<color>93d4ef</color>
+			<!-- <color>000000</color> -->
 		</image>
 
 		<image name="BottomBar" extra="true">
 			<tile>false</tile>
-			<size>1 0.2</size>
+			<size>1 0.1</size>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/RB-gradient-middle.png</path>
-			<color>93d4ef</color>
+			<color>000000</color>
 		</image>
 
 <!-- 		<image name="ControllerOverlay" extra="true">
