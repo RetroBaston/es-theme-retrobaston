@@ -23,7 +23,7 @@ Element color: Search and replace colors. Do not use spaces!
 <theme>
     <formatVersion>3</formatVersion>
 
-<!-- FROM https://github.com/rxbrad/es-theme-gbz35-dark/blob/master/theme.xml  -->
+<!-- FROM https://github.com/rxbrad/es-theme-gbz35-dark/blob/master/theme.xml 
 
 			<feature supported="carousel">
 				<view name="system">
@@ -46,7 +46,7 @@ Element color: Search and replace colors. Do not use spaces!
 					</text>
 
 				</view>
-			</feature>
+			</feature>  -->
 
 	<view name="system">
 
