@@ -47,12 +47,12 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
-		<text name="systemInfo">
+<!-- 		<text name="systemInfo">
 			<backgroundColor>11111199</backgroundColor>
 			<color>93d4ef</color>
 			<fontPath>./_inc/fonts/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-		</text>
+		</text> -->
 
 		<helpsystem name="help">
 			<textColor>93d4ef</textColor>
