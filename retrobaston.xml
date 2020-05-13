@@ -147,7 +147,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="md_image">
 			<pos>0.480 0.168</pos>
-			<maxSize>0.300 0.451</maxSize>
+			<maxSize>0.330 0.451</maxSize>
 			<origin>0 0</origin>
 		</image>
 
@@ -239,52 +239,52 @@ Element color: Search and replace colors. Do not use spaces!
 				</rating>
 
 				<text name="md_lbl_players">
-					<pos>0.8 0.248</pos>
+					<pos>0.82 0.248</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.81 0.278</pos>
+					<pos>0.83 0.278</pos>
 				</text>
 
 				<text name="md_lbl_genre">
-					<pos>0.8 0.308</pos>
+					<pos>0.82 0.308</pos>
 				</text>
 				<text name="md_genre">
-					<pos>0.81 0.328</pos>
+					<pos>0.83 0.338</pos>
 				</text>
 
 				<text name="md_lbl_developer">
-					<pos>0.8 0.368</pos>
+					<pos>0.82 0.368</pos>
 				</text>
 				<text name="md_developer">
-					<pos>0.81 0.388</pos>
+					<pos>0.83 0.398</pos>
 				</text>
 
 				<text name="md_lbl_publisher">
-					<pos>0.8 0.428</pos>
+					<pos>0.82 0.428</pos>
 				</text>
 				<text name="md_publisher">
-					<pos>0.81 0.448</pos>
+					<pos>0.83 0.458</pos>
 				</text>
 
 				<text name="md_lbl_releasedate">
-					<pos>0.8 0.488</pos>
+					<pos>0.82 0.488</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.81 0.508</pos>
+					<pos>0.83 0.518</pos>
 				</datetime>
 
 				<text name="md_lbl_playcount">
-					<pos>0.8 0.548</pos>
+					<pos>0.82 0.548</pos>
 				</text>
 				<text name="md_playcount">
-					<pos>0.81 0.568</pos>
+					<pos>0.83 0.578</pos>
 				</text>
 
 				<text name="md_lbl_lastplayed">
-					<pos>0.8 0.608</pos>
+					<pos>0.82 0.608</pos>
 				</text>
 				<datetime name="md_lastplayed">
-					<pos>0.81 0.628</pos>
+					<pos>0.83 0.638</pos>
 				</datetime>
 
 
@@ -330,7 +330,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.02</fontSize>
-			<size>0.480 0.20</size>
+			<size>0.430 0.30</size>
 			<pos>0.480 0.630</pos>
 		</text>
 
