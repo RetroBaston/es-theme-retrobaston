@@ -147,8 +147,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<image name="md_image">
-			<pos>0.640 0.393</pos>
-			<maxSize>0.330 0.449</maxSize>
+			<pos>0.640 0.392</pos>
+			<maxSize>0.329 0.449</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
@@ -313,7 +313,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.025 0.168</pos>
-			<size>0.435 0.754</size>
+			<size>0.430 0.754</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.00</horizontalMargin>
 			<fontSize>0.03</fontSize>
