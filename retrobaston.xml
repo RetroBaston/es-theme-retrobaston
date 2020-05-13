@@ -40,11 +40,11 @@ Element color: Search and replace colors. Do not use spaces!
 					</text>
 
 					<text name="systemInfo">
-<!-- 					<backgroundColor>000000aa</backgroundColor> -->
-						<path>./art/RB-gradient-middle.png</path>
-						<color>5290c0</color>
+					<backgroundColor>00000000</backgroundColor>
+<!-- 						<path>./art/RB-gradient-middle.png</path> -->
+						<color>000000</color>
 						<fontPath>./art/Schluber.ttf</fontPath>
-						<fontSize>0.025</fontSize>
+						<fontSize>0.03</fontSize>
 					</text>
 
 				</view>
