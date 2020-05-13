@@ -36,15 +36,15 @@ Element color: Search and replace colors. Do not use spaces!
 			<textColor>93d4ef</textColor>
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<pos>O 0.98</pos>
+			<fontSize>0.02</fontSize>
+			<pos>O.5 0.90</pos>
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
 			<size>1 0.26</size>
-			<pos>0.5 0.57</pos>
+			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>000000</color>
