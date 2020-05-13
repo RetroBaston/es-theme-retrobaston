@@ -37,6 +37,8 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.03</fontSize>
+			<pos>O 0.09</pos>
+			<alignment>center</alignment>
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
