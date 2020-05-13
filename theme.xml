@@ -36,7 +36,7 @@
 
 		<image name="logo">
 			<path>./art/logo/${system.theme}.svg</path>
-			<pos>0.02 0.02</pos>
+			<pos>0.002 0.002</pos>
 			<maxSize>0.400 0.120</maxSize>
 			<origin>0 0</origin>
 			<alignment>left</alignment>
