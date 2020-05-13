@@ -147,7 +147,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="md_image">
 			<pos>0.480 0.168</pos>
-			<maxSize>0.330 0.451</maxSize>
+			<maxSize>0.330 0.449</maxSize>
 			<origin>0 0</origin>
 		</image>
 
@@ -208,13 +208,13 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Schluber.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.018</fontSize>
 			<size>0.24 0.01</size>
 		</text>
 
 		<text name="md_lbl_rating, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_releasedate, md_lbl_genre, md_lbl_developer">
 			<pos>1 1</pos>
-			<size>0.23 0.02</size>
+			<size>0.23 0.018</size>
 		</text>
 
 <!--	FROM https://github.com/mattrixk/es-theme-spare/blob/master/spare.xml
@@ -233,7 +233,7 @@ Element color: Search and replace colors. Do not use spaces!
 				</text>
 				<rating name="md_rating">
 					<pos>0.83 0.188</pos>
-					<size>0.23 0.03</size>
+					<size>0.23 0.02</size>
 					<filledPath>./art/star_filled_spacing.svg</filledPath>
 					<unfilledPath>./art/star_hollow_spacing.svg</unfilledPath>
 				</rating>
@@ -242,49 +242,49 @@ Element color: Search and replace colors. Do not use spaces!
 					<pos>0.82 0.218</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.83 0.238</pos>
+					<pos>0.83 0.248</pos>
 				</text>
 
 				<text name="md_lbl_genre">
 					<pos>0.82 0.268</pos>
 				</text>
 				<text name="md_genre">
-					<pos>0.83 0.288</pos>
+					<pos>0.83 0.308</pos>
 				</text>
 
 				<text name="md_lbl_developer">
 					<pos>0.82 0.318</pos>
 				</text>
 				<text name="md_developer">
-					<pos>0.83 0.338</pos>
+					<pos>0.83 0.348</pos>
 				</text>
 
 				<text name="md_lbl_publisher">
 					<pos>0.82 0.368</pos>
 				</text>
 				<text name="md_publisher">
-					<pos>0.83 0.388</pos>
+					<pos>0.83 0.398</pos>
 				</text>
 
 				<text name="md_lbl_releasedate">
 					<pos>0.82 0.418</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.83 0.438</pos>
+					<pos>0.83 0.448</pos>
 				</datetime>
 
 				<text name="md_lbl_playcount">
 					<pos>0.82 0.468</pos>
 				</text>
 				<text name="md_playcount">
-					<pos>0.83 0.488</pos>
+					<pos>0.83 0.498</pos>
 				</text>
 
 				<text name="md_lbl_lastplayed">
 					<pos>0.82 0.518</pos>
 				</text>
 				<datetime name="md_lastplayed">
-					<pos>0.83 0.538</pos>
+					<pos>0.83 0.548</pos>
 				</datetime>
 
 
