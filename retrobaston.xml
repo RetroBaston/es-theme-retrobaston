@@ -40,7 +40,8 @@ Element color: Search and replace colors. Do not use spaces!
 					</text>
 
 					<text name="systemInfo">
-						<backgroundColor>000000aa</backgroundColor>
+<!-- 					<backgroundColor>000000aa</backgroundColor> -->
+						<path>./art/RB-gradient-middle.png</path>
 						<color>5290c0</color>
 						<fontPath>./art/Schluber.ttf</fontPath>
 						<fontSize>0.025</fontSize>
@@ -69,7 +70,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="CenterFade" extra="true">
 			<tile>false</tile>
-			<size>1 0.2</size>
+			<size>1 0.25</size>
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/RB-gradient-middle.png</path>
