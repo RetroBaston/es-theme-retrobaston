@@ -312,7 +312,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>000000</selectorColor>
+<!-- 			<selectorColor>000000</selectorColor> -->
+			<selectorImagePath>./art/RB-gradient-left.png</selectorImagePath>
 			<selectedColor>93d4ef</selectedColor>
 			<primaryColor>000000</primaryColor>
 			<secondaryColor>5290c0</secondaryColor>
