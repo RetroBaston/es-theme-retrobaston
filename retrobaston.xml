@@ -109,7 +109,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<secondaryColor>5290c0</secondaryColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.030</fontSize>
-			<pos>0.025 0.18</pos>
+			<pos>0 0.18</pos>
 			<size>1 0.73</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
