@@ -54,8 +54,8 @@
 
 		<image name="logo2" extra="true">
 			<path>./art/controller/${system.theme}.svg</path>
-			<pos>0.874 0.074</pos>
-			<maxSize>0.460 0.126</maxSize>
+			<pos>0.874 0.062</pos>
+			<maxSize>0.460 0.120</maxSize>
 			<origin>0.5 0.5</origin>
 			<color>000000</color>
 			<origin>0.5 0.5</origin>
@@ -65,7 +65,7 @@
 		<image name="logo2" extra="true">
 			<path>./art/controller/${system.theme}.svg</path>
 			<pos>0.874 0.074</pos>
-			<maxSize>0.460 0.126</maxSize>
+			<maxSize>0.460 0.120</maxSize>
 			<origin>0.5 0.5</origin>
 			<color>bbbbbb</color>
 		</image> -->
