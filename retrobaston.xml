@@ -351,15 +351,15 @@ Element color: Search and replace colors. Do not use spaces!
 
 	</view>
 
-<!-- 	<view name="basic, detailed, video">
+	<view name="basic, detailed, video">
 
-		<image name="bottom" extra="true">
+<!-- 		<image name="bottom" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>93d4ef</color>
-		</image>
+		</image> -->
 
 		<image name="top" extra="true">
 			<pos>0 0</pos>
@@ -369,6 +369,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>93d4ef</color>
 		</image>
 
-	</view> -->
+	</view>
 
 </theme>
