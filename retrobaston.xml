@@ -103,14 +103,14 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>000000</selectorColor>
+			<selectorImagePath>./art/RB-gradient-middle.png</selectorImagePath>
 			<selectedColor>93d4ef</selectedColor>
 			<primaryColor>000000</primaryColor>
 			<secondaryColor>5290c0</secondaryColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<pos>0.025 0.18</pos>
-			<size>0.950 0.73</size>
+			<size>1 0.73</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<forceUppercase>1</forceUppercase>
