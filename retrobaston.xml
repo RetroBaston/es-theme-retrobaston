@@ -364,8 +364,8 @@ Element color: Search and replace colors. Do not use spaces!
 		<image name="top" extra="true">
 			<pos>1 0</pos>
 			<origin>1 0</origin>
-			<size>2 0.16</size>
-			<path>./art/RB-gradient-right.png</path>
+			<size>1 0.16</size>
+			<path>./art/RB-gradient-right70.png</path>
 		</image>
 
 	</view>
