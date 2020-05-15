@@ -9,7 +9,7 @@
 			<pos>0.5 0.2</pos>
 			<origin>0.5 0.5</origin>
 			<size>0.3 0</size>
-			<path>./art/controller.svg</path>
+			<path>./art/controller_black.svg</path>
 			<!--<color>8b0000</color>-->
 		</image>
 
