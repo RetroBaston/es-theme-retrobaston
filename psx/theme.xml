@@ -22,7 +22,7 @@
 	<view name="basic, detailed, video">
 
 		<image name="logo">
-			<path>./art/system.svg</path>
+			<path>./art/system2.svg</path>
 			<pos>0.03 0.084</pos>
 			<maxSize>0.430 0.126</maxSize>
 			<origin>0 0.5</origin>
