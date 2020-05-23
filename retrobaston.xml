@@ -59,12 +59,21 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
+		<image name="help-system" extra="true">
+			<path>./art/help-system.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+		</image>
+
 		<helpsystem name="help">
 			<textColor>93d4ef</textColor>
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.38 0.97</pos>
+			<pos>2 2</pos>
+
+<!-- 						<pos>0.38 0.97</pos> -->
+
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
