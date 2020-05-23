@@ -6,14 +6,6 @@ license: creative commons CC-BY-NC-SA
 originally based on: "Carbon" by Eric Hettervik
 
 Element color: Search and replace colors. Do not use spaces!
-	Red 	8b 00 00
-	Blue 	30 82 ce
-	Green 	50 d6 2c
-	Yellow	ef bc 0b
-	Orange	ef 71 0b
-	Purple	ac 0b ef
-	Teal	04 e9 f7
-	Pink	f5 02 97
 	
 	LightB	93 d4 ef
 	Blue	52 90 c0
@@ -131,7 +123,10 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.25 0.97</pos>
+			<pos>2 2</pos>
+
+<!-- 			<pos>0.25 0.97</pos> -->
+
 <!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
@@ -142,6 +137,12 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 1</origin>
 			<path>./art/RB-gradient-middle.png</path>
 			<color>000000</color>
+		</image>
+
+		<image name="help-basic" extra="true">
+			<path>./art/help-detailed.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
 		</image>
 
 	</view>
