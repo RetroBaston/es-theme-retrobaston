@@ -59,12 +59,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
-		<image name="help-system" extra="true">
-			<path>./art/help-system.png</path>
-			<pos>0 1</pos>
-			<origin>0 1</origin>
-		</image>
-
 		<helpsystem name="help">
 			<textColor>93d4ef</textColor>
 			<iconColor>93d4ef</iconColor>
@@ -95,6 +89,12 @@ Element color: Search and replace colors. Do not use spaces!
  -->		<path>./art/RB-gradient-middle.png</path>
 <!-- 			<color>00000000</color>
  -->	</image>
+
+		<image name="help-system" extra="true">
+			<path>./art/help-system.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+		</image>
 
 <!-- 		<image name="ControllerOverlay" extra="true">
 			<color>93d4ef</color>
