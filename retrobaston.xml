@@ -7,11 +7,12 @@ originally based on: "Carbon" by Eric Hettervik
 
 Element color: Search and replace colors. Do not use spaces!
 	
-	LightB	93 d4 ef
-	Blue	52 90 c0
-	DarkB	3b 68 8a
-	Black	00 00 00
-	BGcolor	48 a5 bd
+	LightB	93d4ef
+	Blue	5290c0
+	DarkB	3b688a
+	Black	000000
+	BGcolor	48a5bd
+	Grey	999999
 -->
 <theme>
     <formatVersion>3</formatVersion>
