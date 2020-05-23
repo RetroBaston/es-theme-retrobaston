@@ -14,7 +14,7 @@
 		</image>
 		
 		<image name="logo">
-			<path>./art/system.png</path>
+			<path>./art/system1.svg</path>
         </image>
 		
 	</view>
@@ -29,7 +29,7 @@
 		</image>
 		
 		<image name="logo2" extra="true">
-			<path>./art/system1.svg</path>
+			<path>./art/controller.svg</path>
 			<pos>0.874 0.074</pos>
 			<maxSize>0.460 0.126</maxSize>
 			<origin>0.5 0.5</origin>
