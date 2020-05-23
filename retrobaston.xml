@@ -180,8 +180,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<iconColor>93d4ef</iconColor>
 			<fontPath>./art/Schluber.ttf</fontPath>
 			<fontSize>0.025</fontSize>
-			<pos>0.26 0.97</pos>
-<!-- 			<alignment>center</alignment> -->
+			<pos>2 2</pos>
+<!-- 			<pos>0.26 0.97</pos>
+ --><!-- 			<alignment>center</alignment> -->
 		</helpsystem>
 
 		<image name="BottomBar" extra="true">
@@ -193,7 +194,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>000000</color>
 		</image>
 
-				<image name="help-detailed" extra="true">
+		<image name="help-detailed" extra="true">
 			<path>./art/help-detailed.png</path>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
