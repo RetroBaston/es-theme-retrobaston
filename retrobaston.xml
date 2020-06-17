@@ -101,7 +101,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/RB-main-bg.png</path>
+			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
 		<textlist name="gamelist">
@@ -154,7 +154,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/RB-main-bg.png</path>
+			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
 		<image name="md_image">
@@ -234,7 +234,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/RB-main-bg.png</path>
+			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
