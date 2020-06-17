@@ -46,9 +46,9 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="system">
 
 		<image name="background" extra="true">
-			<size>0.9 0.9</size>
-			<pos>1 1</pos>
-			<origin>1 1</origin>
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
 			<path>./art/RB-main-bg.jpg</path>
 		</image>
 
@@ -98,9 +98,9 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="basic">
 
 		<image name="background" extra="true">
-			<pos>1 1</pos>
-			<origin>1 1</origin>
-			<size>0.9 0.9</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
 			<path>./art/RB-main-bg.png</path>
 		</image>
 
@@ -151,9 +151,9 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="detailed">
 
 		<image name="background" extra="true">
-			<pos>1 1</pos>
-			<origin>1 1</origin>
-			<size>0.9 0.9</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
 			<path>./art/RB-main-bg.png</path>
 		</image>
 
