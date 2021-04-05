@@ -240,7 +240,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
 			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontPath>./art/BebasNeue-Regular.ttf</fontPath>
 			<fontSize>0.018</fontSize>
 			<size>0.24 0.01</size>
 		</text>
@@ -323,7 +323,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<text name="md_description">
 			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
-			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontPath>./art/BebasNeue-Regular.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0.430 0.29</size>
 			<pos>0.480 0.630</pos>
