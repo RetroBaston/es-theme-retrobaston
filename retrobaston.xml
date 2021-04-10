@@ -368,7 +368,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<color>000000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/BebasNeue-Regular.ttf</fontPath>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.025</fontSize>
 			<size>0.430 0.29</size>
 			<pos>0.480 0.630</pos>
 		</text>
