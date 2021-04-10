@@ -204,7 +204,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 	</view>
 	
-	<feature supported="video">
+	<!-- <feature supported="video">
 
 		<view name="video">
 
@@ -226,7 +226,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		</view>
 
-	</feature>
+	</feature> -->
 
 	<view name="video">
 
