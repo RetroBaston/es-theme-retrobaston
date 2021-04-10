@@ -255,7 +255,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<video name="md_video">
 			<pos>0.645 0.168</pos>
-			<maxSize>0.340 0.422</maxSize>
+			<maxSize>0.340 0.440</maxSize>
 			<origin>0.5 0</origin>			
 			<delay>0.2</delay>
 			<default></default>
