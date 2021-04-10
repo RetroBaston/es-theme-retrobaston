@@ -148,7 +148,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 
 		<image name="background" extra="true">
 			<pos>0 0</pos>
