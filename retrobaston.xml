@@ -148,14 +148,14 @@ Element color: Search and replace colors. Do not use spaces!
 
 	</view>
 
-	<view name="detailed, video">
+	<view name="detailed">
 
-		<image name="background" extra="true">
+		<!-- <image name="background" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./art/RB-main-bg.jpg</path>
-		</image>
+		</image> -->
 
 		<image name="md_image">
 			<pos>0.645 0.168</pos>
@@ -227,6 +227,50 @@ Element color: Search and replace colors. Do not use spaces!
 		</view>
 
 	</feature>
+
+	<view name="video">
+
+		<helpsystem name="help">
+			<textColor>93d4ef</textColor>
+			<iconColor>93d4ef</iconColor>
+			<fontPath>./art/Schluber.ttf</fontPath>
+			<fontSize>0.025</fontSize>
+			<pos>2 2</pos>
+		</helpsystem>
+
+		<image name="BottomBar" extra="true">
+			<tile>false</tile>
+			<size>1 0.04</size>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<path>./art/RB-gradient-middle.png</path>
+			<color>000000</color>
+		</image>
+
+		<image name="help-detailed" extra="true">
+			<path>./art/help-detailed.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+		</image>
+
+		<video name="md_video">
+			<pos>0.645 0.168</pos>
+			<maxSize>0.330 0.422</maxSize>
+			<origin>0.5 0</origin>			
+			<delay>0.2</delay>
+			<default></default>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+		</video>
+
+		<image name="md_marquee">
+			<pos>0.6 0.035</pos>
+			<origin>0 0</origin>
+			<maxSize>0.2 0.1</maxSize>
+		</image>
+
+
+	</view>
 
 	<view name="detailed, video">
 
